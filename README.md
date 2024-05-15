@@ -1,7 +1,8 @@
+El siguiente archivo cuenta con la referencia general a los ejercisios del laboratorio realizados para las estrategias de branching
+[git-best-practices-lab.pdf](https://github.com/jc-esquivelojeda/trunk-based-branching-lab/files/15323921/git-best-practices-lab.pdf)
+
 # trunk-based-branching-lab
-Trunk based Development branching lab 
-
-
+Trunk based Development branching lab  
 A continuacion se enlistan los pasos a seguir para generar un repositorio con la estrategia de branching trunk based:
 
 0. Creacion de repositorio
